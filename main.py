@@ -19,7 +19,7 @@ Examples:
   # RTSP stream (example)
   python yolo_person_webcam.py --source "rtsp://<PI_IP>:8554/stream"
 
-Install:
+Install :
   pip install ultralytics opencv-python
 """
 
